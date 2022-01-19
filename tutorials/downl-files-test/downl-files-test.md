@@ -1,10 +1,9 @@
 ---
-title: Test
-description: Test
-auto_validation: true
-time: 60
-tags: [ tutorial>beginner, topic>big-data]
-primary_tag: topic>abap-connectivity
+title: Downloadable Files Test
+description: TEST test test
+time: 5
+tags: [ tutorial>beginner, topic>abap-connectivity, programming-tool>html5, operating-system>android]
+primary_tag: topic>big-data
 ---
 
 ## Prerequisites
@@ -18,11 +17,14 @@ primary_tag: topic>abap-connectivity
 
 Add additional information: Background information, longer prerequisites
 
+---
+
+[ACCORDION-BEGIN [Step 1: ](XXXXX)]
+
 
 [Click to download](Book1.xlsx)
 
 [Click to download mp3](Jinglebellsringtone.mp3)
-
 
 [Click to download doc](1n.doc)
 
@@ -37,16 +39,11 @@ Add additional information: Background information, longer prerequisites
 [Click to download mp4](4n.mp4)
 
 
----
-
-[ACCORDION-BEGIN [Step 1: ](Paste your link here)]
-TEST
 
 
 
-[VALIDATE_1]
+[DONE]
 [ACCORDION-END]
-
 
 
 ---
