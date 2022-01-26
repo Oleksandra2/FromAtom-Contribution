@@ -38,4 +38,4 @@ tags: [  tutorial>beginner, topic>big-data, topic>sql, products>sap-hana, produc
 
  [Click to download](Jinglebellsringtonen.mp3)
 
- [Click to download] (3n.pdf)
+ [Click to download](3n.pdf)
