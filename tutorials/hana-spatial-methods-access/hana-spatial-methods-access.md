@@ -6,12 +6,6 @@ primary_tag: products>sap-hana
 tags: [  tutorial>beginner, topic>big-data, topic>sql, products>sap-hana, products>sap-hana\,-express-edition, tutorial>community]
 ---
 
-[Click to download excel](10n.xls)
-
- [Click to download excel x](Book1.xlsx)
-
- [Click to download archive](12n.zip)
-
 
  [Click to download doc](1n.doc)
 
@@ -40,7 +34,7 @@ tags: [  tutorial>beginner, topic>big-data, topic>sql, products>sap-hana, produc
  [Click to download s q l](JOINSn.sql)
 
  [Click to download j s o n](resp.json)
- 
+
 
  [Click to download](Jinglebellsringtonen.mp3)
 
