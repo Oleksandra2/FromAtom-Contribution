@@ -3,7 +3,7 @@ title: NewUpdated Spatial access methods
 description: Spatial access methods help you to retrieve properties of geometries
 time: 15
 primary_tag: products>sap-hana
-tags: [  tutorial>beginner, topic>big-data, topic>sql, products>sap-hana, products>sap-hana\,-express-edition, tutorial>community]
+tags: [  tutorial>beginner, topic>big-data, topic>sql, products>sap-hana, products>sap-hana\,-express-edition, tutorial>communityyyy]
 ---
 
 
