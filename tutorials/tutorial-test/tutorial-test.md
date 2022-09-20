@@ -70,5 +70,43 @@ Virtual tables point to data stored in another database.  Federated queries join
 
 [FILE WITH MORE THAN 1 MB mp3](ChristmasForKidsJingleBells.mp3)
 
+```CDS
+    @UI           : {
+    lineItem      : [{position: 10, importance: #HIGH}]
+    }
+    @UI           : {
+    lineItem      : [{position: 10, importance: #HIGH}]
+    }
+    key TravelID;
+
+    @UI           : {
+          lineItem      : [{position: 15, importance: #HIGH}]
+          }
+    AgencyID,
+
+    @UI           : {
+          lineItem      : [{position: 20, importance: #HIGH}]
+          }
+    CustomerID,
+
+    @UI           : {
+          lineItem      : [{position: 30, importance: #HIGH}]
+          }
+    BeginDate,
+
+    @UI           : {
+          lineItem      : [{position: 40, importance: #HIGH}]
+          }
+    EndDate,
+
+    BookingFee,
+
+    @UI           : {
+          lineItem      : [{position: 50, importance: #HIGH}]
+          }
+    TotalPrice,
+
+    ```
+
 
 ---
