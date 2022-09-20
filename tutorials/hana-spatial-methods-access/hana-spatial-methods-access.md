@@ -1,4 +1,5 @@
 ---
+auto_validation: true
 title: NewUpdated Spatial access methods
 description: Spatial access methods help you to retrieve properties of geometries
 time: 15
@@ -6,6 +7,11 @@ primary_tag: products>sap-hana
 tags: [  tutorial>beginner, topic>big-data, topic>sql, products>sap-hana, products>sap-hana\,-express-edition, tutorial>community]
 ---
 
+Open the ADT and change to the ABAP perspective, using the menu.
+
+And select **ABAP** and click **Open**.
+
+Or select the icon.
 
  [Click to download doc](1n.doc)
 
@@ -38,4 +44,6 @@ tags: [  tutorial>beginner, topic>big-data, topic>sql, products>sap-hana, produc
 
  [Click to download](Jinglebellsringtonen.mp3)
 
- [Click to download](3n.pdf)
+
+
+ ---
