@@ -1,6 +1,7 @@
 ---
 tags: [ tutorial>beginner, topic>abap-development, software-product>business-rules,  tutorial>community, software-product>sap-signature-management-by-docusign--add-on-for-standards-based-signature-compliance]
 primary_tag: software-product>sap-hana-cloud
+time: 45
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 creator_name: Oleksandra K.
